@@ -1,0 +1,59 @@
+h1{
+  color:#4f3737;
+  font-size:50px
+  }
+h3{
+  font-size:40px;
+    color:#047864;
+}
+question{
+  color:#a80600;
+  font-size: 100px;
+    font-style :Abril Fatface
+}
+.header{
+  background: url(http://www.sactownmag.com/Blog/2020/coronavirus-mental-health-Q&A-2020/MHIllustration1.png) no-repeat center center ; 
+  background-size: cover;
+ text-align: center; 
+}
+k{
+  color :#81d649 ;
+  text-align: left;
+}
+answer{
+  font-size:50px;
+    color:#e32b07;
+}
+.hello{
+  background: url(https://33phzco7gr3lbxjpwdoad15x-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/what_to_do_stressed_and_depressed_at_work.png) no-repeat center center ; 
+  background-size: cover;
+ text-align: center; 
+}
+answer{
+  font-size:50px;
+}
+.symptoms{
+  background: url(https://lunginstitute.com/wp-content/uploads/2017/05/Signs_and_Symtoms_of_a_Lung_Infection.png) no-repeat center center ; 
+  background-size: cover;
+ text-align: center;
+}
+ta{
+  text-align:left;
+  font-size: 50px;
+  color:#e32b07;
+}
+.treatment{
+    background: url(https://s3.amazonaws.com/ht-photos-qa/production/graphic/5c6d974465df61506ca465ee/original/MHT_Ad_Treatments_a.png?1550686019) no-repeat center center ; 
+  background-size: cover;
+ text-align: center;
+}
+n{
+  text-align:left;
+}
+.th{
+    background: url(https://process.filestackapi.com/resize=w:952/quality=value:70/output=format:webp,compress:true,quality:70/cache=expiry:31536000/compress/no_metadata/VnyB8PwoTTSSnWwX6Tyn) no-repeat center center ; 
+  background-size: cover;
+ text-align: center;
+  font-size:200px;
+    color:#ff0342; 
+}
